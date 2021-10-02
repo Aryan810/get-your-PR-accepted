@@ -24,3 +24,4 @@
 - [Adarsh Patel](https://github.com/adarshzpatel)
 - [Bhavana Kumari](https://github.com/Bhavanak021)
 - [Aryamaan Thakur](https://github.com/aryamaanthakur)
+- [Aryan Gupta](https://github.com/Aryan810)
